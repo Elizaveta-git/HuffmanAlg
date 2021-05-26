@@ -1,0 +1,98 @@
+﻿  HuffmanAlgTests.cpp
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(21,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(46,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(127,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(119,9): warning C4101: bonus: неиспользованная локальная переменная
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(142,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(161,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(163,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(176,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(212,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(243,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(241): message : во время компиляции функции-члена класс шаблон "void ListOneType<Alg::node *>::BogoSortNode(void)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(92): message : выполняется компиляция ссылки на экземпляр шаблон функции "void ListOneType<Alg::node *>::BogoSortNode(void)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.h(66): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ListOneType<Alg::node *>"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(246,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(84,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(81): message : во время компиляции функции-члена класс шаблон "std::string ListOneType<Alg::node *>::atCodeNode(size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(167): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::string ListOneType<Alg::node *>::atCodeNode(size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(74,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(71): message : во время компиляции функции-члена класс шаблон "char ListOneType<Alg::node *>::atSymbNode(size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(165): message : выполняется компиляция ссылки на экземпляр шаблон функции "char ListOneType<Alg::node *>::atSymbNode(size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(54,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(52): message : во время компиляции функции-члена класс шаблон "type ListOneType<type>::at(size_t)"
+          with
+          [
+              type=Alg::node *
+          ]
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(76): message : выполняется компиляция ссылки на экземпляр шаблон функции "type ListOneType<type>::at(size_t)"
+          with
+          [
+              type=Alg::node *
+          ]
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(332,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(330): message : во время компиляции функции-члена класс шаблон "void List<char,int>::BogoSort(void)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(74): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<char,int>::BogoSort(void)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.h(13): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<char,int>"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(335,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(302,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(294): message : во время компиляции функции-члена класс шаблон "bool List<char,int>::found(type1)"
+          with
+          [
+              type1=char
+          ]
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(24): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool List<char,int>::found(type1)"
+          with
+          [
+              type1=char
+          ]
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(281,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(272): message : во время компиляции функции-члена класс шаблон "void List<char,int>::CountVal(type1)"
+          with
+          [
+              type1=char
+          ]
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(30): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<char,int>::CountVal(type1)"
+          with
+          [
+              type1=char
+          ]
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(60,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(58): message : во время компиляции функции-члена класс шаблон "type1 List<type1,int>::at_type1(size_t)"
+          with
+          [
+              type1=char
+          ]
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(48): message : выполняется компиляция ссылки на экземпляр шаблон функции "type1 List<type1,int>::at_type1(size_t)"
+          with
+          [
+              type1=char
+          ]
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(50,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(38): message : во время компиляции функции-члена класс шаблон "type2 List<char,type2>::at_type2(size_t)"
+          with
+          [
+              type2=int
+          ]
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\HuffmanAlg.cpp(48): message : выполняется компиляция ссылки на экземпляр шаблон функции "type2 List<char,type2>::at_type2(size_t)"
+          with
+          [
+              type2=int
+          ]
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(188,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(186): message : во время компиляции функции-члена класс шаблон "void ListOneType<Alg::node *>::swap(size_t,size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(251): message : выполняется компиляция ссылки на экземпляр шаблон функции "void ListOneType<Alg::node *>::swap(size_t,size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(193,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(64,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(61): message : во время компиляции функции-члена класс шаблон "int ListOneType<Alg::node *>::atDataNode(size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\ListOneType.h(248): message : выполняется компиляция ссылки на экземпляр шаблон функции "int ListOneType<Alg::node *>::atDataNode(size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(244,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(242): message : во время компиляции функции-члена класс шаблон "void List<char,int>::swap_type2(size_t,size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(341): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<char,int>::swap_type2(size_t,size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(249,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(225,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(209): message : во время компиляции функции-члена класс шаблон "void List<char,int>::swap_type1(size_t,size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(340): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<char,int>::swap_type1(size_t,size_t)"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\List.h(230,2): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\Debug\HuffmanAlgTests.lib и объект C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\Debug\HuffmanAlgTests.exp
+  HuffmanAlgTests.vcxproj -> C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\HuffmanAlg\Debug\HuffmanAlgTests.dll
